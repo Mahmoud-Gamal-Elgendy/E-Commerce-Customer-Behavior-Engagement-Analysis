@@ -25,4 +25,4 @@ This project analyzes customer satisfaction and user engagement using two real d
 
 ---
 
-**Author:** Mahmoud Youssef | 
+**Author:** Mahmoud Youssef | Weronika Wójcik
